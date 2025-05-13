@@ -1,0 +1,19 @@
+{
+  "name": "enact-example-tool",
+  "version": "1.0.0",
+  "description": "Example tool for Enact Protocol",
+  "main": "index.js",
+  "bin": {
+    "enact-example-tool": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "enact",
+    "example",
+    "tool"
+  ],
+  "author": "Enact User",
+  "license": "MIT"
+}
